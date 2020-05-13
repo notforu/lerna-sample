@@ -1,0 +1,16 @@
+{
+  "name": "@notforu/frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@notforu/core": "^1.0.0",
+    "@notforu/utils": "^1.0.0",
+    "react": "^16.13.1"
+  }
+}
